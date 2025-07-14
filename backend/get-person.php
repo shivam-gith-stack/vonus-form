@@ -1,5 +1,5 @@
 <?php
-header("Access-Control-Allow-Origin: *");
+header("Access-Control-Allow-Origin: https://vonus-form-vjx3.vercel.app");
 header("Content-Type: application/json");
 
 $id = $_GET['id'] ?? null;

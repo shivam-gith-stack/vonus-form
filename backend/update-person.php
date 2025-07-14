@@ -1,5 +1,5 @@
 <?php
-header("Access-Control-Allow-Origin: *");
+header("Access-Control-Allow-Origin: https://vonus-form-vjx3.vercel.app");
 header("Access-Control-Allow-Methods: POST");
 header("Content-Type: application/json");
 

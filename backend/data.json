@@ -42,5 +42,28 @@
         ],
         "display_picture": "uploads\/6874fd8dd92e0_download (1).png",
         "created_at": "2025-07-14T12:52:29+00:00"
+    },
+    {
+        "id": "687500f14f578",
+        "name": "",
+        "gender": "",
+        "dob": "",
+        "address": "",
+        "hobbies": [],
+        "display_picture": null,
+        "created_at": "2025-07-14T13:06:57+00:00"
+    },
+    {
+        "id": "687500f151aa6",
+        "name": "shivam",
+        "gender": "male",
+        "dob": "2025-07-19",
+        "address": "rgreferwer",
+        "hobbies": [
+            "Writing",
+            "Cooking"
+        ],
+        "display_picture": null,
+        "created_at": "2025-07-14T13:06:57+00:00"
     }
 ]
