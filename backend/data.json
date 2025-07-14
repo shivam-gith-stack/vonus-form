@@ -1,0 +1,46 @@
+[
+    {
+        "id": "6874ec52d44e1",
+        "name": "undefined",
+        "gender": "undefined",
+        "dob": "undefined",
+        "address": "undefined",
+        "hobbies": null,
+        "display_picture": "uploads\/6874ec52d311f_download (1).png",
+        "created_at": "2025-07-14T11:38:58+00:00",
+        "updated_at": "2025-07-14T11:39:58+00:00"
+    },
+    {
+        "id": "6874ec74919ee",
+        "name": "undefined",
+        "gender": "undefined",
+        "dob": "undefined",
+        "address": "undefined",
+        "hobbies": null,
+        "display_picture": null,
+        "created_at": "2025-07-14T11:39:32+00:00",
+        "updated_at": "2025-07-14T12:52:45+00:00"
+    },
+    {
+        "id": "6874fd8dd5d8f",
+        "name": "",
+        "gender": "",
+        "dob": "",
+        "address": "",
+        "hobbies": [],
+        "display_picture": null,
+        "created_at": "2025-07-14T12:52:29+00:00"
+    },
+    {
+        "id": "6874fd8ddb9a7",
+        "name": "shivam",
+        "gender": "male",
+        "dob": "2025-07-18",
+        "address": "scscscassxaxx",
+        "hobbies": [
+            "Reading"
+        ],
+        "display_picture": "uploads\/6874fd8dd92e0_download (1).png",
+        "created_at": "2025-07-14T12:52:29+00:00"
+    }
+]

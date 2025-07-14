@@ -1,0 +1,6 @@
+<?php
+header("Access-Control-Allow-Origin: *");
+header("Content-Type: application/json");
+
+$data = file_get_contents("data.json");
+echo json_encode(["people" => json_decode($data, true)]);
