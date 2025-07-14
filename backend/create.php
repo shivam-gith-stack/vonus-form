@@ -2,8 +2,18 @@
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
 
+// ✅ Handle CORS
 header("Access-Control-Allow-Origin: https://vonus-form-vjx3.vercel.app");
-header("Access-Control-Allow-Methods: POST");
+header("Access-Control-Allow-Methods: POST, OPTIONS");
+header("Access-Control-Allow-Headers: Content-Type");
+
+// ✅ Respond to preflight request
+if ($_SERVER['REQUEST_METHOD'] === 'OPTIONS') {
+    http_response_code(200);
+    exit();
+}
+
+// ✅ Force Content-Type header for POST
 header("Content-Type: application/json");
 
 $data = $_POST;
